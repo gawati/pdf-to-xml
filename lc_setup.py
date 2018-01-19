@@ -25,10 +25,7 @@ PDF parser that can be used for other purposes instead of text analysis.''',
     'pdfminer': ['cmap/*.pickle.gz']
     },
     scripts=[
-    'tools/testprep_pdf2txt.py',
-    'tools/testprep_dumppdf.py',
-    'tools/testprep_latin2ascii.py',
-    'tools/testprep_tocextractor.py',
+        'pdfminer/lc_pdf2txt.py'
     ],
     keywords=['pdf parser', 'pdf converter', 'layout analysis', 'text mining'],
     classifiers=[
