@@ -1,5 +1,9 @@
-Original Work Copyright (c) 2004-2016  Yusuke Shinyama <yusuke at shinyama dot jp>
-Modified Work Copyright (c) 2017-2020 Bungeni Consulting LLP <info at bungeni.com>
+Original Work --
+Copyright (c) 2004-2016  Yusuke Shinyama <yusuke at shinyama dot jp>
+Modified Work --
+
+Copyright (c) 2017-2020 African Law Library <info at africanlawlibrary.net> 
+and Bungeni Consulting LLP <info at bungeni.com>
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
