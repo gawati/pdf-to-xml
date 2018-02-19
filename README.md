@@ -30,3 +30,11 @@ Which disables character level font glyphs if that is too verbose for you.
 
 Outputs XML 
 
+
+```
+lc_pdf2txt.py -B -t xml -o test.xml ./akn_mu_act_1923-10-13_act_14-1923_eng_main.pdf
+```
+
+will convert `akn_mu_act_1923-10-13_act_14-1923_eng_main.pdf` to `test.xml`. 
+
+We typically don't need character level font-glyphs
